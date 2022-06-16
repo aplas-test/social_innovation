@@ -4,6 +4,7 @@ apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
   name: examples
+  description: The very best of descriptions
 spec:
   owner: guests
 ---
